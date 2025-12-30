@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://github.com/devIasminSilva/devIasminSilva/assets/143299286/c67fe686-e1cf-48de-9409-5a59b101b1b6"> <h3>💜 Hi, I'm Yasmin</h3>
+<img align="right" height="300" src="https://github.com/devIasminSilva/devIasminSilva/assets/143299286/c67fe686-e1cf-48de-9409-5a59b101b1b6"> <h3>🤍 Hi, I'm Yasmin</h3>
 
 I’m a tech enthusiast who enjoys building, breaking things, and understanding how everything connects.
 
